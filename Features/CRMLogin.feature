@@ -21,3 +21,4 @@ Feature: Login functionality check for free CRM application
       | name1 |     5 | success |
       | name2 |     7 | Fail    |
       |name 3 |     6 | sucess  |
+      |name 3 |     6 | sucess  |
